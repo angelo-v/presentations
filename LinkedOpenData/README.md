@@ -21,4 +21,6 @@ All other images: cc-by (http://creativecommons.org/licenses/by/3.0/), By: "Ange
 
 cc-0: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication, http://creativecommons.org/publicdomain/zero/1.0/  
 cc-by-2: Creative Commons Attribution 2.0 Generic (CC BY 2.0), http://creativecommons.org/licenses/by/2.0/deed.en  
+cc-by-2-de: Namensnennung 2.0 Deutschland (CC BY 2.0), http://creativecommons.org/licenses/by/2.0/de/deed.de  
+cc-by-sa-2: Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0), http://creativecommons.org/licenses/by-sa/2.0/  
 cc-by-sa-3: Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0), http://creativecommons.org/licenses/by-sa/3.0/deed.en  
