@@ -1,0 +1,22 @@
+The presentation is licenced under the creative commons licence "Attribution-ShareAlike 3.0 Germany (CC BY-SA 3.0)" (http://creativecommons.org/licenses/by-sa/3.0/de/deed.en). Licences of the used images see below.
+
+Die Präsentation steht unter einer "Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland" Lizenz. (http://creativecommons.org/licenses/by-sa/3.0/de/). Die Lizenzen der benutzten Bilder sind unten aufgeführt.
+
+Author / Autor: "Angelo Veltens, http://datenwissen.de"  
+WebID: http://me.desone.org/person/aveltens#me
+
+## Images
+
+me.jpg: only for use within this presentation / Nur zur Verwendung innerhalb dieser Präsentation  
+desone_screenshot.png: only for use within this presentation / Nur zur Verwendung innerhalb dieser Präsentation  
+
+foaf.png: public domain, Source: "http://commons.wikimedia.org/wiki/File:FoafLogo.svg"  
+blue.png, green.png, red.png, yellow.png: public domain, derived from foaf.png  
+cat.jpg: cc-by-2, By: "vincent.chen", Source: http://www.flickr.com/photos/kneva/560380352/  
+objectcannotbeliked.png: Screenshot from http://facebook.com  
+
+All other images: cc-by (http://creativecommons.org/licenses/by/3.0/), By: "Angelo Veltens, http://datenwissen.de"  
+
+## Licences
+
+cc-by-2: Creative Commons Attribution 2.0 Generic (CC BY 2.0), http://creativecommons.org/licenses/by/2.0/deed.en  
